@@ -4,8 +4,8 @@
 // @description    Makes possible to show subtitles only when a video is paused
 // @match          https://ororo.tv/*/*
 // @version        0.1
-// @updateURL      https://github.com/sivkoff/ororo-cc/raw/master/main.js
-// @downloadURL    https://github.com/sivkoff/ororo-cc/raw/master/main.js
+// @updateURL      https://github.com/sivkoff/ororo-cc/raw/master/main.user.js
+// @downloadURL    https://github.com/sivkoff/ororo-cc/raw/master/main.user.js
 // @grant          none
 // ==/UserScript==
 
